@@ -1,6 +1,6 @@
 package app;
 
-class app{
+class bean{
     public static void main(String[] args)
     {
         System.out.println("Hello");
